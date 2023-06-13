@@ -1,0 +1,10 @@
+* trivial-exe
+
+A couple of utilities for working with executables
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/ceramic/trivial-exe.git   |
+| commit  | ee6820f  |
+| systems | trivial-exe |
+|---------+-------------------------------------------|
+
